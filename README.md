@@ -36,5 +36,6 @@ java HelloWord
 2. sout
 3. ctrl + d
 4. /** + enter
+5. @ + Ctrl + Spasi
 
 ===========================
