@@ -2,7 +2,12 @@ public class TipeDataBukanPrimitif {
     public static void main(String[] args) {
 
         Integer iniInteger = 100;
+
+        System.out.println(iniInteger);
+
         Long iniLong = 10000L;
+
+        System.out.println(iniLong);
 
         Byte iniByte = null;
 
@@ -20,7 +25,14 @@ public class TipeDataBukanPrimitif {
         long iniLong2 = iniObject.longValue();
         float iniFloat = iniObject.floatValue();
 
+        System.out.println(iniInt);
+        System.out.println(iniShort);
+        System.out.println(iniLong2);
+        System.out.println(iniFloat);
+
         Long amount = 1000000L;
+
+        System.out.println(amount);
 
     }
 }

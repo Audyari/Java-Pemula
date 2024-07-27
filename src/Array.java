@@ -19,6 +19,8 @@ public class Array {
 
         String[] stringArray2 = new String[3];
 
+        stringArray2[0] = "Eko";
+
         String[] namaNama = {
                 "Eko", "Kurniawan", "Khannedy"
         };
@@ -28,6 +30,8 @@ public class Array {
         int[] arrayInt = new int[]{
                 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
         };
+
+        System.out.println(arrayInt[0]);
 
         long[] arrayLong = {
                 10L, 20L, 30L

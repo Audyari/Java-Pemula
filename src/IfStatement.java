@@ -10,6 +10,8 @@ public class IfStatement {
 
         var lulus = lulusNilai && lulusAbsen;
 
+        System.out.println(lulus);
+
         if (nilai >= 75 && absen >= 75) {
             System.out.println("Selamat Anda Lulus");
         } else {

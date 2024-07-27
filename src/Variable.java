@@ -21,5 +21,9 @@ public class Variable {
 
         final String application = "Belajar Java";
 
+        System.out.println(application);
+
+        System.out.println(firstName + " " + middleName + " " + lastName);
+
     }
 }
