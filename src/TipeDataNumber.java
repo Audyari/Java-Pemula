@@ -28,15 +28,16 @@ public class TipeDataNumber {
         // Contoh 7: Tipe data char
         char iniChar = 'A';
         System.out.println(iniChar); // Output: A
-
+        
         // Contoh 8: Tipe data boolean
         boolean iniBoolean = true;
         System.out.println(iniBoolean); // Output: true
-
+        
         // Contoh 9: Tipe data String
         String iniString = "Hello, World!";
         System.out.println(iniString); // Output: Hello, World!
 
+        
     }
 
 }
