@@ -1,11 +1,9 @@
 public class Variabel2 {
+
     public static void main(String[] args) {
+        final var Nama = "Audyari W ";
 
-        final var PI =  "TEST INI STRING"; 
-
-        System.out.println(PI.getClass().getSimpleName());
-
-        
+        System.out.println(Nama);
 
     }
 }
