@@ -10,7 +10,12 @@ public class MethodOverloading {
         System.out.println("Hai Nama Kamu Siapa");
     }
 
-    static void panggilNama(String Nama) {
-        System.out.println("Hai " + Nama + " Salam Kenal Ya");
+    /**
+     * 
+     * @param Nama
+     * @return
+     */
+    static String panggilNama(String Nama) {
+        return "Hai Nama Kamu Pasti" + Nama;
     }
 }
