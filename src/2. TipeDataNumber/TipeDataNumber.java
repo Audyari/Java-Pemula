@@ -1,6 +1,5 @@
 public class TipeDataNumber {
 
-    
     public static void main(String[] args) {
 
         System.out.println("");
@@ -30,9 +29,6 @@ public class TipeDataNumber {
 
         int iniTestBiner = 0b01010101;
         System.out.println(iniTestBiner);
-
-
-
 
     }
 }

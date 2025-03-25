@@ -7,7 +7,7 @@ public class KonversiNumber {
 
         long iniTipeLong = 128;
 
-        System.out.println(iniTipeLong);
+        System.out.println("Tipe Data Long : " + iniTipeLong);
        
         byte iniTipeByte = (byte) iniTipeLong;
 

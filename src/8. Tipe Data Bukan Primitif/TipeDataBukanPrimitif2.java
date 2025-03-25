@@ -4,7 +4,7 @@ public class TipeDataBukanPrimitif2 {
 
         Integer Usia = 0;
 
-        int UsiaPrimitif = Usia;
+        Integer UsiaPrimitif = Usia;
 
         Integer UsiaLagi = UsiaPrimitif;
 

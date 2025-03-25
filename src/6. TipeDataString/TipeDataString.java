@@ -9,5 +9,6 @@ public class TipeDataString {
         System.out.println(NamaDepan + " " + NamaBelakang);
         System.out.println(NamaLengkap);
 
+
     }
 }
