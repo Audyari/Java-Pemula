@@ -1,4 +1,4 @@
-public class TipeDataCharacter {
+public class TipeDataCharacter1 {
     public static void main(String[] args) {
         // Contoh 1: Karakter biasa
         char myChar = 'A';

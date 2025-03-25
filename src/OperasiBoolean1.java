@@ -1,4 +1,4 @@
-public class OperasiBoolean {
+public class OperasiBoolean1 {
     public static void main(String[] args) {
 
 

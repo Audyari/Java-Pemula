@@ -1,4 +1,5 @@
-public class IfStatement {
+
+public class IfStatement1 {
     public static void main(String[] args) {
 
 

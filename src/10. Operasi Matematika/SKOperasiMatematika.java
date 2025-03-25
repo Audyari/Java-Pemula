@@ -17,7 +17,11 @@ public class SKOperasiMatematika {
 
 
         
-        // Pengurangan
+        // buatkan pengurangan java 
+       
+
+
+
 
         System.out.println(NilaiA - NilaiB);
 
