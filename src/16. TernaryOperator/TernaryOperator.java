@@ -7,6 +7,7 @@ public class TernaryOperator {
         String Hasil = (Usia >= 17 && Pelajar == "Pelajar") ? "Anda Boleh Ujian " : "Anda Tidak Boleh Ujian";
 
         System.out.println(Hasil);
+    
     }
 
 }
