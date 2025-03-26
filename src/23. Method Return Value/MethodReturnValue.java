@@ -15,16 +15,11 @@ public class MethodReturnValue {
     }
 
     static int kalkulator(int NilaiA, int NilaiB, char Metode) {
-        switch (Metode) {
-            case '+':
-                return NilaiA + NilaiB;
-
-            case '-':
-                return NilaiA - NilaiB;
-
-            default:
-                break;
-        }
-        return Metode;
+        return switch (Metode) {
+            case '+' -> NilaiA + NilaiB;
+            case '-' -> NilaiA - NilaiB;
+            default -> 0;
+        };
     }
+
 }

@@ -12,4 +12,7 @@ public class MethodParameter {
     static String hasilPanggil() {
         return "Hasil nya string";
     }
+
+    
+    
 }

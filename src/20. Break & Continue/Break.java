@@ -6,7 +6,7 @@ public class Break {
 
             if (i % 2 == 0) {
                 System.out.println("Melewati Angka : " + i);
-                continue;
+                continue; // keluar dari loop atas dan kembali ke awal loop
             }
 
             System.out.println("Print Terus ke " + i);

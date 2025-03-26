@@ -6,7 +6,7 @@ public class RecursiveMethod {
 
         System.out.println(faktorialDua(100));
         System.out.println(factorialRecursive(100));
-        // testLoop(5000);
+        testLoop(5531);
     }
 
     static int factorial(int n) {
@@ -48,4 +48,6 @@ public class RecursiveMethod {
 
         }
     }
+
+ 
 }

@@ -13,6 +13,13 @@ public class ForEach {
             }
             System.out.println(" ");
         }
+
+        for (int i = 0; i < Nilai.length; i++) {
+            for (int j = 0; j < Nilai[i].length; j++) {
+                System.out.print(" " + Nilai[i][j]);
+            }
+            System.out.println(" ");
+        }
     }
 
 }
